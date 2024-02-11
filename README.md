@@ -53,7 +53,7 @@ This is honestly about as easy as it gets now that the repo is set up! To state 
 your code to the local repo. I cannot see the work on your local computer through tea leaves (at least not yet!) Okay, 
 now let's get to the big scary command:
 
-git push
+    git push
 
 Yup, that's it! You are done! You have submitted your assignment! Now I will be able to see your work and give you feedback
 
