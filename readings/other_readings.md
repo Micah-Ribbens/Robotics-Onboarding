@@ -5,5 +5,5 @@
 **Computer Vision Code** https://github.com/Micah-Ribbens/Computer-Vision-GUI  
 
 # If you really want to!
-**Any repos on my public account (if you really want to)**  
+**Any repos on my public account (again if you really want to)**  
 https://github.com/Micah-Ribbens
