@@ -1,0 +1,1 @@
+Write a program with a state machine controlled AI. A video game might be a fun idea!
